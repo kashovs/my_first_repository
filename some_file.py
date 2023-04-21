@@ -10,3 +10,5 @@ def say_something(number: int, word: str) -> str:
     return word * number
 
 print (say_something(11, 'hello'))
+
+print ('Проверка с ноутбука')
